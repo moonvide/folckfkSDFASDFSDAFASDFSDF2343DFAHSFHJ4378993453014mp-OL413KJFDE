@@ -1,0 +1,2 @@
+JAR_URL = ""
+MINE_URL = ""
